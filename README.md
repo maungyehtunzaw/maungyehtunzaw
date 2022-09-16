@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+ - I'm currently working by learning FLUTTER 
+ - I'm avaliable for Freelance work 
 <!--
 **maungyehtunzaw/maungyehtunzaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
