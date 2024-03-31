@@ -1,8 +1,8 @@
 ### Hi there 👋
- - 🌱 I’m currently learning FLUTTER 
+ - 🌱 I’m working with FLUTTER 3
  - 🔭 I’m currently working on Mobile APP with FlUTTER
- - 🧚🏻‍♂️ I do Backend Web with Laravel, CakePHP, CI
- - 😘 Failling in Love with React , Vue
+ - 🧚🏻‍♂️ I do Backend Web with Laravel, CakePHP, CI over 10 years
+ - 😘 Failling in Love with React , Vue and JavaScript
  - 😋 hungury to new tech, new languages and beyound expectation
  ## 🌐 Reach me through
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/maungyehtunzaw) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maungyehtunzaw) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@maungyehtunzaw) [![Twitter](https://img.shields.io/twitter/follow/maungyehtunzaw?logo=Twitter&style=for-the-badge)](https://twitter.com/maungyehtunzaw)
