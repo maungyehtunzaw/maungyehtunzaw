@@ -32,16 +32,7 @@ I'm a Full-Stack Developer with over 10 years of experience in PHP, MySQL, Larav
 
 ![Ye Htun Zaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=maungyehtunzaw&show_icons=true&theme=radical)
 
-## 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
-- [Portfolio](https://your-portfolio-website.com)
-
-## 📫 How to Reach Me
-
-- Email: your-email@example.com
-- Website: [your-website.com](https://your-website.com)
 
 ## 🔧 Technologies & Tools
 
