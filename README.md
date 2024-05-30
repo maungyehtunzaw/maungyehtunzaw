@@ -30,7 +30,7 @@ I'm a Full-Stack Developer with over 10 years of experience in PHP, MySQL, Larav
 
 ## 📈 GitHub Stats
 
-![Ye Htun Zaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Ye Htun Zaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=maungyehtunzaw&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
 
