@@ -28,11 +28,6 @@ I'm a Full-Stack Developer with over 10 years of experience in PHP, MySQL, Larav
 - Booking Systems
 - Landing Page Creation
 
-## 📈 GitHub Stats
-
-![Ye Htun Zaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=maungyehtunzaw&show_icons=true&theme=radical)
-
-
 
 ## 🔧 Technologies & Tools
 
