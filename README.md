@@ -12,21 +12,11 @@ I'm a Full-Stack Developer with over 10 years of experience in PHP, MySQL, Larav
 ## 🛠 Skills
 
 ### Languages & Frameworks
-- **Frontend:** Flutter, Dart, JavaScript, React, Vue, HTML, CSS
-- **Backend:** PHP, Laravel, CakePHP, Node.js
-- **Database:** MySQL, SQLite
+- **Frontend:** Flutter, Dart, JavaScript/TypeScript, React, Vue, HTML, CSS
+- **Backend:** PHP, Laravel, CakePHP, Node.js API, Go lang
+- **Database:** MySQL, SQLite, MongoDB
 - **Tools & Platforms:** GitHub, Docker, AWS, Firebase
 
-### Services I Offer
-- Payment Integration
-- Customer Support Systems
-- Analytics & Reporting
-- Chat Features
-- Dashboard Development
-- Social Media Integration
-- Inventory Management
-- Booking Systems
-- Landing Page Creation
 
 
 ## 🔧 Technologies & Tools
