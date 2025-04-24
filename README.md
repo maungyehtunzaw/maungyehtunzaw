@@ -2,6 +2,10 @@
 
 I'm a Full-Stack Developer with over 10 years of experience in PHP, MySQL, Laravel, CakePHP, React, Vue, and Flutter. I specialize in developing high-quality mobile and web applications.
 
+## Remark
+I'm not working with stupid PM, less exp .. just talking too much and don't understand the flow.. and then don't try to understand the flow of project. just giving command and timlime ..
+
+
 ## 🚀 About Me
 
 - 🔭 I’m currently working on various freelance projects involving Flutter and PHP.
