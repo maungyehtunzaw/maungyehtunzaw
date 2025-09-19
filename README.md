@@ -1,4 +1,4 @@
-# Hi there, I'm Ye Htun Zaw! 👋
+# Hi there, I'm Ye Htun Z 👋
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-yehtun.com-00C7FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yehtun.com)
 [![GitHub followers](https://img.shields.io/github/followers/maungyehtunzaw?style=for-the-badge&logo=github)](https://github.com/maungyehtunzaw)
