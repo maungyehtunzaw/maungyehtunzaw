@@ -1,16 +1,18 @@
-# Hi th## 🚀 About Me
+# Hi there, I'm Ye Htun Zaw! 👋
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-yehtun.com-00C7FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yehtun.com)
+[![GitHub followers](https://img.shields.io/github/followers/maungyehtunzaw?style=for-the-badge&logo=github)](https://github.com/maungyehtunzaw)
+
+I'm a **Full-Stack Developer** with over **12 years of experience** in building scalable web and mobile applications. I specialize in developing high-quality mobile apps, web applications, and automation solutions that solve real-world problems.
+
+## 🚀 About Me
 
 - 🔭 I'm currently working on various freelance projects involving Flutter, PHP, Go, and Python automation solutions
 - 🌱 I'm always learning and exploring new technologies to enhance my skills and stay current with industry trends
 - 👯 I'm looking to collaborate on exciting open-source projects that make a meaningful impact
 - 💬 Ask me about anything related to full-stack development, mobile app development, or automation
 - 📫 How to reach me: Check out my portfolio at [yehtun.com](https://yehtun.com) or connect with me on social media
-- ⚡ Fun fact: I've been coding for over 12 years and still get excited about solving complex problems with elegant solutions!'m Ye Htun Zaw! 👋
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-yehtun.com-00C7FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yehtun.com)
-[![GitHub followers](https://img.shields.io/github/followers/maungyehtunzaw?style=for-the-badge&logo=github)](https://github.com/maungyehtunzaw)
-
-I'm a **Full-Stack Developer** with over **12 years of experience** in building scalable web and mobile applications. I specialize in developing high-quality mobile apps, web applications, and automation solutions that solve real-world problems. 
+- ⚡ Fun fact: I've been coding for over 12 years and still get excited about solving complex problems with elegant solutions! 
 
 ## 🚀 About Me
 
